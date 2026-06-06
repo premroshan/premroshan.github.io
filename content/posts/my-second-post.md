@@ -1,8 +1,37 @@
-+++
-date = '2026-06-06T19:26:54+05:30'
-draft = false
-title = 'Turning Adversity into Advantage: How India Can Harness the Global Energy Crisis'
-+++
+---
+title: "Turning Adversity into Advantage: How India Can Harness the Global Energy Crisis"
+date: 2026-06-06T19:26:54+05:30
+draft: false
+description: India faces a global energy crunch. Rather than weathering the storm, it has an unprecedented opportunity to pivot toward self-reliance and emerge as a global leader in sustainable energy.
+summary: In the midst of political and economic turbulence, India's greatest opportunity lies not in temporary fixes but in a bold pivot toward energy self-reliance through nuclear power, renewables, and electrification.
+tags:
+  - india
+  - energy
+  - sustainability
+  - policy
+  - renewables
+categories:
+  - Policy & Economy
+author: Prem
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: true
+canonicalURL: ""
+disableShare: false
+searchHidden: false
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: false
+ShowRssButtonInSectionTermList: true
+cover:
+  image: ""
+  alt: India's energy transition — nuclear, solar, and electric mobility
+  caption: ""
+  relative: false
+  hidden: true
+---
 In the midst of political and economic turbulence, where short-term survival often dominates headlines, one clear-eyed view cuts through the noise: a crisis, if handled with foresight, is not a death sentence but a rare window for bold transformation. India, long burdened as a major energy importer, now faces a global energy crunch—volatile supplies, soaring costs, and supply-chain fragility—that exposes the vulnerabilities of import dependency. Rather than merely weathering the storm through temporary fixes like currency controls, the nation has an unprecedented opportunity to pivot decisively toward self-reliance and emerge as a global leader in sustainable energy production.
 
 The writing on the wall is unmistakable: India cannot continue as a net energy importer in an era of geopolitical uncertainty and climate urgency. The solution lies in a full-throated embrace of nuclear power and renewables (solar, wind, and advanced green technologies) as the twin pillars of our energy future. These are not just cleaner alternatives—they represent strategic independence, technological leadership, and long-term economic resilience.

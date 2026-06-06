@@ -1,8 +1,36 @@
-+++
-date = '2026-06-06T18:26:54+05:30'
-draft = false
-title = 'Why We Must Level Up Our Parenting: Building Critical Thinkers, Not Just Obedient Kids'
-+++
+---
+title: "Why We Must Level Up Our Parenting: Building Critical Thinkers, Not Just Obedient Kids"
+date: 2026-06-06T18:26:54+05:30
+draft: false
+description: In a world drowning in misinformation and echo chambers, our kids' greatest superpower won't be coding or memorizing facts — it will be thinking clearly.
+summary: Most parenting still follows the old script of compliance over capability. It's time to shift — teaching questioning, building reasoning muscles, and introducing mental models early to raise independent thinkers.
+tags:
+  - parenting
+  - critical-thinking
+  - education
+  - mental-models
+categories:
+  - Parenting
+author: Prem
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: true
+canonicalURL: ""
+disableShare: false
+searchHidden: false
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: false
+ShowRssButtonInSectionTermList: true
+cover:
+  image: ""
+  alt: Raising critical thinkers — parenting for the age of misinformation
+  caption: ""
+  relative: false
+  hidden: true
+---
 In a world drowning in misinformation, AI-generated content, and echo chambers, our kids’ greatest superpower won’t be coding or memorizing facts — it will be thinking clearly.
 Most parenting today still follows the old script: “Because I said so.” Sit quietly. Score high. Don’t question elders. This creates compliant adults, not capable ones.
 We need to shift.
