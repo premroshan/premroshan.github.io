@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My Blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Jun 2026 18:26:54 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why We Must Level Up Our Parenting: Building Critical Thinkers, Not Just Obedient Kids</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sat, 06 Jun 2026 18:26:54 +0530</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;In a world drowning in misinformation, AI-generated content, and echo chambers, our kids’ greatest superpower won’t be coding or memorizing facts — it will be thinking clearly.
+Most parenting today still follows the old script: “Because I said so.” Sit quietly. Score high. Don’t question elders. This creates compliant adults, not capable ones.
+We need to shift.&lt;/p&gt;
+&lt;p&gt;The New Parenting Imperative:
+Teach Questioning as a Habit
+Instead of shutting down “Why?”, celebrate it. “That’s a great question. What do you think?” Turn dinner tables into thinking labs.
+Build Reasoning Muscles
+Don’t just give answers. Ask: “How do you know that’s true?” “What would change your mind?” “What’s the counter-argument?” Let them wrestle with ideas.
+Introduce Mental Models Early
+Simple frameworks like First Principles, Inversion (“What could go wrong?”), Circle of Competence, or even basic Probability. These are like software upgrades for the brain. A 10-year-old who understands “correlation ≠ causation” is already ahead of most adults.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
