@@ -1,6 +1,6 @@
 +++
 date = '2026-06-06T18:26:54+05:30'
-draft = true
+draft = false
 title = 'Why We Must Level Up Our Parenting: Building Critical Thinkers, Not Just Obedient Kids'
 +++
 In a world drowning in misinformation, AI-generated content, and echo chambers, our kids’ greatest superpower won’t be coding or memorizing facts — it will be thinking clearly.
